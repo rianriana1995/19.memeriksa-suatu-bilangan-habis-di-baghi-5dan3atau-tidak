@@ -1,0 +1,1 @@
+# 19.memeriksa-suatu-bilangan-habis-di-baghi-5dan3atau-tidak
